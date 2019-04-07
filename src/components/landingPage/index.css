@@ -1,0 +1,8 @@
+.landContainer{
+    text-align: center;
+    position: relative;
+    margin-top: 35%;
+}
+.landContainer span{
+    margin: 1em;
+}

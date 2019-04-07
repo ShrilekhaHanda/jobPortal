@@ -1,0 +1,14 @@
+.loginForm{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid rgba(34,36,38,.1);
+    background-color: #f7f7f7;
+    padding: 5%;
+    margin-top: 12%;
+}
+.loginForm h2{
+    margin-bottom: 14%;
+}
+.loginForm form .ui.primary.button{
+    margin-top: 5%;
+}

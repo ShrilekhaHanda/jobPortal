@@ -1,0 +1,14 @@
+.regForm{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid rgba(34,36,38,.1);
+    background-color: #f7f7f7;
+    padding: 2% 5% 3%;
+    margin-top: 3%;
+}
+.regForm h2{
+    margin-bottom: 10%;
+}
+.regForm form .ui.primary.button{
+    margin-top: 5%;
+}

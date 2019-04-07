@@ -1,0 +1,130 @@
+{
+  "register": [
+    {
+      "fullName": "Arya",
+      "emailId": "arya@gameof.thrones",
+      "password": "arya123",
+      "education": "CSE",
+      "select": "candidate",
+      "id": 1
+    },
+    {
+      "fullName": "Sansa",
+      "emailId": "sansa@go.t",
+      "password": "abcdefg",
+      "education": "EEE",
+      "select": "candidate",
+      "id": 2
+    },
+    {
+      "fullName": "ro",
+      "emailId": "ro@ro.ro",
+      "password": "ro123",
+      "education": "CSE",
+      "select": "candidate",
+      "id": 4
+    },
+    {
+      "fullName": "ravi",
+      "emailId": "ravi@ra.vi",
+      "password": "ravi123",
+      "education": "BE",
+      "select": "candidate",
+      "id": 5
+    },
+    {
+      "fullName": "jk",
+      "emailId": "jk@jk.jk",
+      "password": "jk123",
+      "education": "EEE",
+      "select": "recruiter",
+      "id": 6
+    },
+    {
+      "fullName": "abc",
+      "emailId": "a@b.c",
+      "password": "abc123",
+      "education": "bE",
+      "select": "recruiter",
+      "id": 8
+    },
+    {
+      "fullName": "BHarath",
+      "emailId": "bharath@adc",
+      "password": "abc",
+      "education": "BCA",
+      "select": "candidate",
+      "id": 14
+    },
+    {
+      "fullName": "shriRaksha",
+      "emailId": "jhmmh",
+      "password": "j,uh",
+      "education": "sdg",
+      "select": "candidate",
+      "id": 15
+    },
+    {
+      "fullName": "kumkum",
+      "emailId": "cetg",
+      "password": "bgshzf ",
+      "education": "zdfag",
+      "select": "recruiter",
+      "id": 16
+    },
+    {
+      "fullName": "abc",
+      "emailId": "xcsd",
+      "password": "vgf",
+      "education": " r",
+      "select": "recruiter",
+      "id": 17
+    },
+    {
+      "emailId": "vetsy@cjs.cerg",
+      "fullName": "zxF",
+      "password": " dfg",
+      "education": "x sdg",
+      "select": "candidate",
+      "id": 18
+    }
+  ],
+  "jobs": [
+    {
+      "compName": "Infosys",
+      "jTitle": "Developer",
+      "jDescription": "Front End",
+      "id": 1
+    },
+    {
+      "jTitle": "Developer",
+      "jDescription": "Back End",
+      "compName": "Wipro",
+      "id": 2
+    },
+    {
+      "compName": "apoxeo",
+      "jTitle": "intern",
+      "jDescription": "for freshers",
+      "id": 3
+    },
+    {
+      "compName": "Myntra",
+      "jTitle": "Fashion Designer",
+      "jDescription": "blah blah blah blah....",
+      "id": 4
+    },
+    {
+      "compName": "Amazon",
+      "jTitle": "Developer",
+      "jDescription": "a,xmcbui c jkre dsjkf",
+      "id": 5
+    },
+    {
+      "compName": "Jbong",
+      "jTitle": "dev",
+      "jDescription": "ckn,jaw jkesge  jksadhf vdkug",
+      "id": 6
+    }
+  ]
+}
